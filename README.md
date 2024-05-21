@@ -2,7 +2,7 @@
 
 This repository contains the data and code for the article:
 
-> Oliveira, Thiago R. (2024). Legal cynicism, intrusive policing, and the dynamics of police legitimacy: Evidence from Brazil\'92s largest city. Currently available at https://osf.io/preprints/socarxiv/89jkv.
+> Oliveira, Thiago R. (2024). Legal cynicism, intrusive policing, and the dynamics of police legitimacy: Evidence from Brazil's largest city. Currently available at https://osf.io/preprints/socarxiv/89jkv.
 
 Please cite this repository as:
 
