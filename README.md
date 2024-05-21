@@ -13,9 +13,10 @@ Please cite this repository as:
 -   `data`
     -   contains the relevant data sets necessary to replicate all analyses
     -   `import` is an empty directory with the raw survey data, which is protected
-    -   `export` is populated when `1_SVM_Text_classification_models.R` and `2_Cleaning_data.R` run.
--   `plots` populated when `3_main_analysis.R` runs.
+    -   `export` is populated when `1_SVM_Text_classification_models.R`, `2_Cleaning_data.R`, `3_main_analysis.R`, and `Mplus_IRT_continuum.inp` run.
+-   `plots` is populated when `3_main_analysis.R` runs.
 -   `1_SVM_Text_classification_models.R` replicates the text classification models used to classify open-ended responses into four categories.
 -   `2_Cleaning_data.R` draws on the raw (protected) survey data and generates the data set `data/export/dflong_new.RData`, which can be used to replicate all analyses included in Oliveira (2024).
 -   `3_main_analysis.R` replicates the main analyses of the paper.
+-   `Mplus_IRT_continuum` replicates the latent trait analysis estimating scores of the coercive-consensual continuum and generates police legitimacy scores at `data/export/continuum_long.txt`.
 -   `4_Appendix.R` replicates the analyses included in the Appendix.
